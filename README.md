@@ -1,6 +1,6 @@
-# Docker and Configuration Management
+# DevOps and the DBA
 
-Configuration Management Camp 2014
+PGConf NYC 2014
 
 ## Author
 
